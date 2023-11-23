@@ -1,4 +1,8 @@
 
+import ".styles.css"
+
+import { Footer } from '../../componentes/Footer'
+import { Hero } from '../../componentes/Hero'
 
 
 export function Home() {
@@ -6,9 +10,13 @@ export function Home() {
     <>
     
 
-    return {
+    return (
 
-    }
+        <Footer/>
+
+        <Hero/>
+
+    )
 
     
     

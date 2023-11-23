@@ -16,10 +16,6 @@ export function Header() {
 
               Tenha <span>ambientes limpos</span> e bem decorados, transmitindo elegância  e finesse para todo aquele que estiver
               ali. Sua história visual começa aqui!</p>
-            
-
-
-
 
         </div>
     )

@@ -18,15 +18,8 @@ export function Hero() {
 
          <Header/>
 
-
-
       </div>
 
-
-    )
-
-    
-    
-    
+    )   
    
 }

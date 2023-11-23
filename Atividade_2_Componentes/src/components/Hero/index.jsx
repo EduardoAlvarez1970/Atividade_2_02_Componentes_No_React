@@ -16,6 +16,10 @@ export function Hero() {
             <img src={image1} alt="um homem em um espaço decorado" />
          </div>
 
+         <Header/>
+
+
+
       </div>
 
 

@@ -1,6 +1,7 @@
 
 import ".styles.css"
 
+
 export function Menu() {
 
     return (
@@ -9,7 +10,6 @@ export function Menu() {
             <a target="_blank" href="">Instagram</a>
             <a target="_blank" href="">Fale conosco</a>
        </div>
-
-        
+          
     )
 }

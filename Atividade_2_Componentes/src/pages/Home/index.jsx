@@ -12,9 +12,9 @@ export function Home() {
 
     return (
 
-        <Footer/>
-
         <Hero/>
+
+        <Footer/>
 
     )
 

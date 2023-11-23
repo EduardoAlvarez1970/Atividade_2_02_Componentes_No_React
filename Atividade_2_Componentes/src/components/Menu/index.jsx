@@ -1,7 +1,7 @@
 
 import ".styles.css"
 
-export function Menu {
+export function Menu() {
 
     return (
     

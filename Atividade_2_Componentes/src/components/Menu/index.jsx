@@ -1,5 +1,5 @@
 
-import ".styles.css"
+import "./styles.css"
 
 
 export function Menu() {
@@ -10,6 +10,6 @@ export function Menu() {
             <a target="_blank" href="">Instagram</a>
             <a target="_blank" href="">Fale conosco</a>
        </div>
-          
+
     )
 }

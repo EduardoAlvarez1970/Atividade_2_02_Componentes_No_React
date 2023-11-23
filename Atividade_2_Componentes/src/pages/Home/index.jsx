@@ -1,25 +1,27 @@
 
-import ".styles.css"
+import "./styles.css"
+
+import { Hero } from '../../componentes/Hero'
 
 import { Footer } from '../../componentes/Footer'
-import { Hero } from '../../componentes/Hero'
 
 
 export function Home() {
 
-    <>
-    
-
     return (
 
-        <Hero/>
+        <>
 
-        <Footer/>
+            <Hero/>
+
+            <Footer/>
+
+        </>
 
     )
 
     
     
-    </>
+  
    
 }

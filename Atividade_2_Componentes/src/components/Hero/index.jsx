@@ -1,5 +1,5 @@
 
-import ".styles.css"
+import "./styles.css"
 
 import image1 from '../../images/image1.svg'
 

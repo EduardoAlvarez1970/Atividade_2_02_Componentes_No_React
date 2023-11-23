@@ -1,9 +1,9 @@
 
 import "./styles.css"
 
-import { Hero } from '../../componentes/Hero'
+import { Hero } from '../../components/Hero'
 
-import { Footer } from '../../componentes/Footer'
+import { Footer } from '../../components/Footer'
 
 
 export function Home() {

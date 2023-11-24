@@ -6,17 +6,12 @@
     top: 651px;
     left: 340px;
     border: 1px;
-
-    border: 1px solid #ECEFF2;
 }
 
 #line {
     width: 568px;
     top: 651px;
     left: 364px;
-    border: 1px;
-
+    border: none;
     color: #ECEFF2;
-
-    border: 1px solid #ECEFF2;
 }

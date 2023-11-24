@@ -1,10 +1,11 @@
 
 
-#links a + a {
+#links a {
     width: 592px;
     height: 28px;
     top: 659px;
     left: 340px;
+    text-decoration: none;
 }
 
 a {
@@ -14,6 +15,6 @@ a {
     line-height: 28px;
     letter-spacing: 0em;
     text-align: center;
-
+    padding: 6px 28px;
     color: #FF9900;
 }
